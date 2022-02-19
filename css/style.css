@@ -786,12 +786,10 @@ ul.callbacks_tabs.callbacks1_tabs {
 /*--//content--*/
 
 
-/*-- w3layouts --*/
-
-
 /*--footer--*/
 
 .footer {
+    padding-top: 10rem;
     background: #141414;
 }
 
@@ -805,7 +803,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 
 .footer-top-at {
-    padding: 6em 0 4em;
+    padding: 7em 0 4em;
 }
 
 ul.nav-bottom li {
@@ -890,9 +888,6 @@ ul.social {
 ul.social li {
     display: inline-block;
 }
-
-
-/*-- w3layouts --*/
 
 ul.social li i {
     background: url(../images/img-sprite.png)no-repeat -9px -14px;
